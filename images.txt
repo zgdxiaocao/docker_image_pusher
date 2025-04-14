@@ -1,2 +1,1 @@
-nginx
 kstring/gpt-sovits:latest-elite
