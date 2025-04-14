@@ -1,1 +1,1 @@
-kstring/gpt-sovits:latest-elite
+breakstring/gpt-sovits:latest-elite
