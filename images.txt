@@ -1,1 +1,1 @@
-ragflow-sandbox-executor-manager
+mysql:8.0.39
