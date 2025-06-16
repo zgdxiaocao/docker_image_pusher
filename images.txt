@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+mysql:5.7
