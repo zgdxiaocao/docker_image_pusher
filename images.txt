@@ -1,3 +1,1 @@
-nacos/nacos-server:v3.0.1
-openjdk:8-jre
-redis:latest
+nacos/nacos-server:v2.5.1
