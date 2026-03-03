@@ -1,1 +1,1 @@
-provectuslabs/kafka-ui:latest
+eclipse-mosquitto:2
