@@ -1,1 +1,1 @@
-eclipse-mosquitto:2
+emqx/mqttx-web:v1.13.0
